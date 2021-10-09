@@ -1,0 +1,13 @@
+body{
+    background-color: lightblue;
+    height:100%;
+    text-align:center;
+}
+#login_button{
+    width:50%;
+    border-radius: 40px;
+}
+#user_name{
+    width:50%;
+    
+}
